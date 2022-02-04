@@ -1,0 +1,1 @@
+0ce2d525dc35b1e5d7d5d6defcbcc39e7abbbac66b0e225b3be13988dd9555ba  ./target/wasm32-unknown-unknown/release/score_tracker.wasm
